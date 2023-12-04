@@ -1,0 +1,12 @@
+.vertical-line{
+    border-left: 2px solid #000;
+    display: inline-block;
+    height: 130px;
+    margin: 0 20px;
+  }
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
